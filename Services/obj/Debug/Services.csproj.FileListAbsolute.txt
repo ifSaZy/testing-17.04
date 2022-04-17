@@ -1,0 +1,6 @@
+C:\Users\bazil\source\repos\testing 17.04\Services\bin\Debug\Services.dll
+C:\Users\bazil\source\repos\testing 17.04\Services\bin\Debug\Services.pdb
+C:\Users\bazil\source\repos\testing 17.04\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\bazil\source\repos\testing 17.04\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\bazil\source\repos\testing 17.04\Services\obj\Debug\Services.dll
+C:\Users\bazil\source\repos\testing 17.04\Services\obj\Debug\Services.pdb

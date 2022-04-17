@@ -1,0 +1,24 @@
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\bin\Debug\testing 17.04.exe.config
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\bin\Debug\testing 17.04.exe
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\bin\Debug\testing 17.04.pdb
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\testing 17.04.csprojAssemblyReference.cache
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\MainPage.g.cs
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\MainWindow.g.cs
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\SumPage.g.cs
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\App.g.cs
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\testing 17.04_MarkupCompile.cache
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\testing 17.04_MarkupCompile.lref
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\MainPage.baml
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\MainWindow.baml
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\SumPage.baml
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\testing 17.04.g.resources
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\testing_17._04.Properties.Resources.resources
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\testing 17.04.csproj.GenerateResource.cache
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\testing 17.04.csproj.CoreCompileInputs.cache
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\testing 17.04.exe
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\testing 17.04.pdb
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\PageRaz.g.cs
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\PageRaz.baml
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\bin\Debug\Services.dll
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\bin\Debug\Services.pdb
+C:\Users\bazil\source\repos\testing 17.04\testing 17.04\obj\Debug\testing 17.04.csproj.CopyComplete
